@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap");
 .myTitle {
-	/*your code here*/
+	font-family: "Source Code Pro", monospace;
 }

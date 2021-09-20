@@ -1,1 +1,20 @@
-/* add your styles here */
+body {
+	background: url("https://3000-tomato-minnow-kftqf5w9.ws-us15.gitpod.io/.learn/assets/background-vertical.jpg?raw=true");
+	font-family: "Times New Roman", Times, serif;
+	padding: 0 0 0 20px;
+}
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+}
+h2 {
+	text-decoration: underline;
+}
+#id1 {
+	background: rgba(198 206 227 / 29%);
+	padding: 5px;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+}

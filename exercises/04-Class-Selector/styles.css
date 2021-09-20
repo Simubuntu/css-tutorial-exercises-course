@@ -1,3 +1,9 @@
 .b-blue {
 	background: blue;
 }
+a {
+	color: yellow;
+}
+.small {
+	font-size: 9px;
+}
